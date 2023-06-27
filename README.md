@@ -3,10 +3,12 @@
 ## Project Description
 
 This project focuses on analyzing data related to school projects and donations. The goal is to gain insights into various aspects such as the number of schools opening projects, the amount of donations received, the relationship between projects and donations, and the performance  of different states in terms of donations.
+
 <img width="992" alt="Screenshot 2023-06-28 at 12 10 30 AM" src="https://github.com/Amit-45/donation-analysis/assets/77204104/e4afb87e-9e68-48f9-8495-3528ca1ff5f1">
 
 
 The analysis involves loading the required datasets, merging them into a comprehensive dataset, and performing descriptive analysis to extract meaningful information. Key statistical measures like minimum, maximum, mean, median, and percentiles of donations are analyzed. Additionally, visualizations such as bar plots are created to present the findings effectively.
+
 <img width="755" alt="Screenshot 2023-06-28 at 12 12 34 AM" src="https://github.com/Amit-45/donation-analysis/assets/77204104/aced8319-90bc-4859-87e7-baa6d9b92352">
 
 ## Tech Stack Used
