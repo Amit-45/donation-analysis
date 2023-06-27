@@ -12,10 +12,6 @@ The analysis involves loading the required datasets, merging them into a compreh
 ## Tech Stack Used
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
 
 ## Libraries Used
 
