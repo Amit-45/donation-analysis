@@ -90,5 +90,5 @@ Please note that the tech stack and libraries mentioned above are just samples
 
 
 
-# analysis 
+# Analysis 
 Check the analysis here !!  👉 [analysis pdf file](https://github.com/Amit-45/donation-analysis/files/11885775/school.donation.analysis.pdf)
