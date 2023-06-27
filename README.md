@@ -1,5 +1,20 @@
 # Project and funding analysis
 
+## Table of Contents
+- [Project Description](#project-description)
+- [Tech Stack Used](#tech-stack-used)
+- [Libraries Used](#libraries-used)
+- [Loading Data](#loading-data)
+- [Head of Each Data](#head-of-each-data)
+- [Describe Data](#describe-data)
+- [Creating New Data by Merging](#creating-new-data-by-merging)
+- [List of Columns](#list-of-columns)
+- [Questions Solved](#questions-solved)
+- [Screenshots](#screenshots)
+- [License](#license)
+- [Contributing](#contributing)
+
+
 ## Project Description
 
 This project focuses on analyzing data related to school projects and donations. The goal is to gain insights into various aspects such as the number of schools opening projects, the amount of donations received, the relationship between projects and donations, and the performance  of different states in terms of donations.
@@ -60,7 +75,8 @@ The analysis involves loading the required datasets, merging them into a compreh
 
 ## Screenshots
 
-[Insert screenshots here to showcase the analysis results.]
+<img width="644" alt="Screenshot 2023-06-28 at 12 16 27 AM" src="https://github.com/Amit-45/donation-analysis/assets/77204104/300e9160-3a9a-44bc-84ec-03303de50cbe">
+
 
 ## License
 
